@@ -1,4 +1,4 @@
-<img width="961" height="516" alt="image" src="https://github.com/user-attachments/assets/f84fb450-0307-4ef7-a911-d11d1671c661" />
+<img width="1002" height="518" alt="image" src="https://github.com/user-attachments/assets/71dca75d-9c6a-4c5b-9719-4a2e8e983100" /><img width="961" height="516" alt="image" src="https://github.com/user-attachments/assets/f84fb450-0307-4ef7-a911-d11d1671c661" />
 <img width="983" height="596" alt="image" src="https://github.com/user-attachments/assets/1502cd59-1f03-48f1-ac22-2a12c6e429ed" />
 <img width="1046" height="590" alt="image" src="https://github.com/user-attachments/assets/155f368d-623f-49c1-b53d-efeec493c065" />
 
@@ -35,3 +35,40 @@
 <img width="878" height="503" alt="image" src="https://github.com/user-attachments/assets/373729b2-0860-48fa-b122-18994d84edbd" />
 <img width="741" height="510" alt="image" src="https://github.com/user-attachments/assets/02f1c6dd-c0d1-4719-af25-6fca0f79f517" />
 <img width="1081" height="551" alt="image" src="https://github.com/user-attachments/assets/92a16879-b328-4211-a257-ddeaf15ff003" />
+<img width="872" height="521" alt="image" src="https://github.com/user-attachments/assets/976cdedf-ed64-467e-bb89-3141aa946044" />
+<img width="933" height="462" alt="image" src="https://github.com/user-attachments/assets/258273c1-19e8-48ae-a846-583d5930d60e" />
+<img width="1002" height="518" alt="image" src="https://github.com/user-attachments/assets/d9f052ad-b977-40e9-8959-b9ff9f922235" />
+<img width="1057" height="462" alt="image" src="https://github.com/user-attachments/assets/42b83440-ff4f-4aee-8cdf-b630d5cae42f" />
+<img width="1030" height="436" alt="image" src="https://github.com/user-attachments/assets/88ac2b22-e4b0-4705-ba30-897067ec8b7b" />
+<img width="985" height="427" alt="image" src="https://github.com/user-attachments/assets/bab09fec-22fb-428f-a462-fdee7cd30b92" />
+<img width="982" height="437" alt="image" src="https://github.com/user-attachments/assets/b8cad5a3-a826-4a52-8766-b042481dca2a" />
+<img width="766" height="517" alt="image" src="https://github.com/user-attachments/assets/b59e8b6b-e091-415d-ae3c-6dc23e8260b7" />
+
+核心數據與網路 
+
+<img width="963" height="550" alt="image" src="https://github.com/user-attachments/assets/a86d995a-96f1-4c1f-b008-089b9e733158" />
+<img width="955" height="532" alt="image" src="https://github.com/user-attachments/assets/e226d510-9962-4c2a-a44c-89cda91b2ea8" />
+<img width="962" height="483" alt="image" src="https://github.com/user-attachments/assets/25f6bcbf-7064-4244-bee2-b40d5987b175" />
+<img width="931" height="447" alt="image" src="https://github.com/user-attachments/assets/f34458b2-7acc-487d-a4e5-d3568c30bb79" />
+<img width="998" height="345" alt="image" src="https://github.com/user-attachments/assets/04510102-887f-4f98-a76e-296d72c9bf14" />
+
+遊戲互動與數據採集
+
+<img width="948" height="532" alt="image" src="https://github.com/user-attachments/assets/b859af5c-3105-4c97-95e3-d1c668a90ec5" />
+<img width="866" height="376" alt="image" src="https://github.com/user-attachments/assets/8b497184-c04b-4123-b618-7695cc818d59" />
+<img width="677" height="527" alt="image" src="https://github.com/user-attachments/assets/3b5b0a81-480e-4905-8d54-e36f7ffadde0" />
+<img width="977" height="521" alt="image" src="https://github.com/user-attachments/assets/9376a3be-012b-426a-8f65-00bd4b44b581" />
+
+訓練與優化機制
+
+<img width="901" height="451" alt="image" src="https://github.com/user-attachments/assets/83b7ee96-777b-4752-95f7-2be19f5fbc3a" />
+<img width="796" height="505" alt="image" src="https://github.com/user-attachments/assets/95817ca5-cba0-4ab7-b526-326ef877d093" />
+<img width="992" height="551" alt="image" src="https://github.com/user-attachments/assets/3715630e-2de9-4c98-a700-750965227563" />
+<img width="1022" height="501" alt="image" src="https://github.com/user-attachments/assets/4d512b4d-104b-4236-aa61-3907f0160a21" />
+<img width="1037" height="447" alt="image" src="https://github.com/user-attachments/assets/e41a257b-5048-453b-a430-9b56022ee684" />
+<img width="866" height="542" alt="image" src="https://github.com/user-attachments/assets/d5c9d686-11f8-49c3-beb1-f009f15f4516" />
+
+
+
+
+
