@@ -70,7 +70,10 @@
 <img width="1037" height="447" alt="image" src="https://github.com/user-attachments/assets/e41a257b-5048-453b-a430-9b56022ee684" />
 <img width="866" height="542" alt="image" src="https://github.com/user-attachments/assets/d5c9d686-11f8-49c3-beb1-f009f15f4516" />
 
+分工表 
 
+C111112130 林廉閎  完成指定題乒乓球  一半簡報  50%
+C111112155 謝宗佑  完成自選題接水果  一半簡報  50%
 
 
 
